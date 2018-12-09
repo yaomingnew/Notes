@@ -14,11 +14,11 @@
 
 ### 内存层次：CPU中内存层次及访问速度
 
-![memory hir](./pics/memory hir.jpg)
+![memory hir](./pics/memory_hir.jpg)
 
 ### 操作系统内存管理的目标
 
-![memory management](./pics/memory management.jpg)
+![memory management](./pics/memory_management.jpg)
 
 ### 操作系统的内存管理方式
 
@@ -40,7 +40,7 @@
 
 ### 逻辑地址的生成过程
 
-![generation of logical addr](./pics/generation of logical addr.jpg)
+![generation of logical addr](./pics/generation_of_logical_addr.jpg)
 
 ---
 
