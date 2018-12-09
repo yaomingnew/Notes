@@ -8,15 +8,17 @@
 
 ### 计算机体系结构：存储管理单元需要管理的内容
 
-![computerarchitecture](/Users/zhengzozo/Desktop/computerarchitecture.png)
+
+
+![computerarchitecture](./pics/computerarchitecture.png)
 
 ### 内存层次：CPU中内存层次及访问速度
 
-![memory hir](/Users/zhengzozo/Documents/Notes/os/pics/memory hir.jpg)
+![memory hir](./pics/memory hir.jpg)
 
 ### 操作系统内存管理的目标
 
-![memory management](/Users/zhengzozo/Documents/Notes/os/pics/memory management.jpg)
+![memory management](./pics/memory management.jpg)
 
 ### 操作系统的内存管理方式
 
@@ -38,7 +40,7 @@
 
 ### 逻辑地址的生成过程
 
-![generation of logical addr](/Users/zhengzozo/Documents/Notes/os/pics/generation of logical addr.jpg)
+![generation of logical addr](./pics/generation of logical addr.jpg)
 
 ---
 
