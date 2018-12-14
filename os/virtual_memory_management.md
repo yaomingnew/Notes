@@ -10,7 +10,7 @@
 
 2. 操作系统对存储的抽象：
 
-   ![1544712823947](.\pics\virtual_address_abstract.png)
+   ![memory_abstraction](./pics/virtual_address_abstract.png)
 
    操作系统自动建立地址空间映射关系，从而使得应用程序开发变得更加简单
 
@@ -30,11 +30,11 @@
 
   - 程序A一共可以被分为一下6个逻辑块，其中A会调用B、C，B调用D，C调用E、F
 
-  ![SWAPPING1](.\pics\swapping1.PNG)
+  ![SWAPPING1](./pics/swapping1.PNG)
 
-  ![SWAPPING2](.\pics\swapping2.PNG)
+  ![SWAPPING2](./pics/swapping2.PNG)
 
-  ![SWAPPING3](.\pics\swapping3.PNG)
+  ![SWAPPING3](./pics/swapping3.PNG)
 
 - 缺点：
 

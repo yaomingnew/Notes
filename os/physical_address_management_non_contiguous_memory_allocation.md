@@ -77,7 +77,7 @@
 
     - 用帧号 + 页内偏移得到最终的物理地址
 
-      ![Page_table](F:\学习笔记\Notes\os\pics\page_table.PNG)
+      ![Page_table](./pics/page_table.PNG)
 
 ## 页表
 
